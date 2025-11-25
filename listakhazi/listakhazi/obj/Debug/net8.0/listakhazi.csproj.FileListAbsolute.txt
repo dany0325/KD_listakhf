@@ -1,0 +1,14 @@
+D:\asd\work\cs\hazi_listas\listakhazi\listakhazi\obj\Debug\net8.0\listakhazi.GeneratedMSBuildEditorConfig.editorconfig
+D:\asd\work\cs\hazi_listas\listakhazi\listakhazi\obj\Debug\net8.0\listakhazi.AssemblyInfoInputs.cache
+D:\asd\work\cs\hazi_listas\listakhazi\listakhazi\obj\Debug\net8.0\listakhazi.AssemblyInfo.cs
+D:\asd\work\cs\hazi_listas\listakhazi\listakhazi\obj\Debug\net8.0\listakhazi.csproj.CoreCompileInputs.cache
+D:\asd\work\cs\hazi_listas\listakhazi\listakhazi\bin\Debug\net8.0\listakhazi.exe
+D:\asd\work\cs\hazi_listas\listakhazi\listakhazi\bin\Debug\net8.0\listakhazi.deps.json
+D:\asd\work\cs\hazi_listas\listakhazi\listakhazi\bin\Debug\net8.0\listakhazi.runtimeconfig.json
+D:\asd\work\cs\hazi_listas\listakhazi\listakhazi\bin\Debug\net8.0\listakhazi.dll
+D:\asd\work\cs\hazi_listas\listakhazi\listakhazi\bin\Debug\net8.0\listakhazi.pdb
+D:\asd\work\cs\hazi_listas\listakhazi\listakhazi\obj\Debug\net8.0\listakhazi.dll
+D:\asd\work\cs\hazi_listas\listakhazi\listakhazi\obj\Debug\net8.0\refint\listakhazi.dll
+D:\asd\work\cs\hazi_listas\listakhazi\listakhazi\obj\Debug\net8.0\listakhazi.pdb
+D:\asd\work\cs\hazi_listas\listakhazi\listakhazi\obj\Debug\net8.0\listakhazi.genruntimeconfig.cache
+D:\asd\work\cs\hazi_listas\listakhazi\listakhazi\obj\Debug\net8.0\ref\listakhazi.dll
